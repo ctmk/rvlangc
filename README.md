@@ -17,7 +17,7 @@ an application and scripts converting excel sheets to a marshal dumped hash
 
 ## rvlangc
 
-rvlangcのrubyスクリプトは[NYSL](https://github.com/ctmk/rvlangc/blob/master/README.md)で公開されています。
+rvlangcのrubyスクリプトは[NYSL](https://github.com/ctmk/rvlangc/blob/master/LICENSE)で公開されています。
 
 ## rv2da.exe
 
