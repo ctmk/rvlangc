@@ -19,9 +19,9 @@ an application and scripts converting excel sheets to a marshal dumped hash
 
 rvlangcのrubyスクリプトは[NYSL](https://github.com/ctmk/rvlangc/blob/master/LICENSE)で公開されています。
 
-## rv2da.exe
+## rvlangc.exe
 
-rv2da.exeはrv2daをocraでexe化したものです。
+rvlangc.exeはrvlangcをocraでexe化したものです。
 内包する全てのソフトウェアのライセンス条件に従って使用できます。
 
 ### Ruby
